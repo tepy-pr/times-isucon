@@ -21,6 +21,6 @@
 <?php require __DIR__ . '/posts.php' ?>
 
 <div id="isu-post-more">
-  <button id="isu-post-more-btn">もっと見る</button>
+  <button id="isu-post-more-btn">HIIIII見る</button>
   <img class="isu-loading-icon" src="/img/ajax-loader.gif">
 </div>
